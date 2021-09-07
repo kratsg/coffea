@@ -1,0 +1,17 @@
+iterative_executor
+==================
+
+.. currentmodule:: coffea.processor
+
+.. autoclass:: iterative_executor
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~iterative_executor.__call__
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: __call__
